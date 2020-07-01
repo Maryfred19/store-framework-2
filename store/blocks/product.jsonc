@@ -32,7 +32,7 @@
   "product-brand": {
     "props": {
       "displayMode": "logo",
-      "height": "30",
+      "height": "30"
 
     }
   },
@@ -51,6 +51,7 @@
       "preventVerticalStretch": "auto"
     }
   }, 
+
   "product-price": {
     "props": {
       "showSavings": true,
