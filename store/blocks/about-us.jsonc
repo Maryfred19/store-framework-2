@@ -71,14 +71,20 @@
         "children":[
             "rich-text#home1",
             "rich-text#home2"
-        ]
+        ],
+        "props": {
+            "tabId": "majorAppliances"
+          }
     },
 
     "tab-content.item#home2":{
         "children":[
             "rich-text#home1",
             "rich-text#home2"
-        ]
+        ],
+        "props": {
+            "tabId": "electronics"
+          }
     }, 
 
     "rich-text#home1":{
