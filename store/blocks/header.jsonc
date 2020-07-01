@@ -58,13 +58,13 @@
             "search-bar",
             "minicart",
             "login"
-
         ],
         "props": {
             "sticky": true,
             "inverted":true
-          }
+        }
     },
+
     "header-row#search": {
         "children": [
           "search-bar"
